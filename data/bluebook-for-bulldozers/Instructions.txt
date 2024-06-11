@@ -1,0 +1,9 @@
+All the CSVs are stored as "Git-lfs", you will have to perform following command before running the notebook!
+
+1. git lfs install
+2. git lfs fetch --all
+3. git lfs checkout
+
+Done! now, you can run the notebook!
+
+Also upload the files manually when running on "Google Colab"
