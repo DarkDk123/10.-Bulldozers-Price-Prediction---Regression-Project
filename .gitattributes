@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/bluebook-for-bulldozers/submission_df.csv -filter -diff -merge
